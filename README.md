@@ -1,1 +1,5 @@
-# Network-Programming_TFTP_Project_2161068_GoEunJun
+# 네트워크 프로그래밍 TFTP 클라이언트 기능 구현
+# 고은준_2161068
+#
+# 코드 설명
+# 
